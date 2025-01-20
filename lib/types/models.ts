@@ -43,8 +43,8 @@ export const models: Model[] = [
     providerId: 'google'
   },
   {
-    id: 'llama3-groq-8b-8192-tool-use-preview',
-    name: 'LLama 3 Groq 8B Tool Use',
+    id: ' groq-llama-3.3-70b-versatile',
+    name: ' groq-llama-3.3-70b-versatile',
     provider: 'Groq',
     providerId: 'groq'
   },
