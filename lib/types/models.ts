@@ -43,8 +43,8 @@ export const models: Model[] = [
     providerId: 'google'
   },
   {
-    id: ' groq-llama-3.3-70b-versatile',
-    name: ' groq-llama-3.3-70b-versatile',
+    id: 'groq-llama-3.3-70b-versatile',
+    name: 'groq-llama-3.3-70b-versatile',
     provider: 'Groq',
     providerId: 'groq'
   },
